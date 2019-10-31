@@ -1,0 +1,16 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: boot-demo
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    database: mysql
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?characterEncoding=UTF8&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+logging.level.org.springframework.boot.autoconfigure: ERROR

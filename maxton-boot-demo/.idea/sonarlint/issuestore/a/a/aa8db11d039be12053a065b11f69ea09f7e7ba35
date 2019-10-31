@@ -1,0 +1,17 @@
+
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
+Esquid:S1125Ò"(Remove the literal "true" boolean value.(ÂåŸŒüÿÿÿÿ
+Esquid:S1125Ú"(Remove the literal "true" boolean value.(Õ°·²ùÿÿÿÿ
+|squid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
+5squid:S2119ï"Save and re-use this "Random".(¼İÅf
+wsquid:S1149ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+5squid:S2119â"Save and re-use this "Random".(¼İÅf
+[squid:S3518Ê">Make sure "chLength" can't be zero before doing this division.(û®‹Ìúÿÿÿÿ
+esquid:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ëğış
+|squid:S1149¥"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
+Asquid:S1125ì")Remove the literal "false" boolean value.(ßˆø¥
+{squid:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«Äâüÿÿÿÿ
+wsquid:S1149ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú¦œÚ
+Asquid:S1905"*Remove this unnecessary cast to "Pattern".(Ëğış
+^squid:S1126Ë"AReplace this if-then-else statement by a single return statement.(Ì“ÿıÿÿÿÿ
